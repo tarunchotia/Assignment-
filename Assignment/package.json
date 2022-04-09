@@ -23,7 +23,7 @@
     "@types/jquery": "^3.3.36",
     "bootstrap": "^4.4.1",
     "jquery": "^3.5.0",
-    "moment": "^2.25.1",
+    "moment": "^2.29.2",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
